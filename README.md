@@ -73,20 +73,13 @@ const alessandro = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kimishiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kimishiba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Kimishiba&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kimishiba&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimishiba&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimishiba&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
