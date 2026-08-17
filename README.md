@@ -14,9 +14,7 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const alessandro = {
