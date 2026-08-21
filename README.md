@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Kimishiba Cyber Mascot" width="270" src="./img/kimishiba_round_pfp_animated.gif">
 
 ```javascript
 const alessandro = {
